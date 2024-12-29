@@ -1,4 +1,4 @@
-# Cast-Defect-Detection-CNN
+# Cast-Defect-Detection-Ml
 The Cast Defect Detection project focuses on automating the inspection process of castings in the manufacturing industry using machine learning. The primary objective is to develop a reliable system that can accurately identify defects in castings, ensuring quality control and reducing the need for manual inspection.
 
 
